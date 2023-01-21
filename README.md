@@ -1,27 +1,8 @@
-# Showtime
+Website with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![1](https://user-images.githubusercontent.com/92145567/213864287-cd01b317-fae5-450f-9bda-fee781b0bc30.png)
+![2](https://user-images.githubusercontent.com/92145567/213864291-c20005e1-cfc9-4e2a-bc0f-fdffcb5b2174.png)
+![3](https://user-images.githubusercontent.com/92145567/213864294-d60c072b-5ab6-42dc-bd5f-7885c640f170.png)
+![4](https://user-images.githubusercontent.com/92145567/213864298-c7e700df-6bb5-4909-b008-5387c0bf9aff.png)
+![5](https://user-images.githubusercontent.com/92145567/213864286-a9bf90a5-4129-42c8-a7be-cead739cac7f.png)
